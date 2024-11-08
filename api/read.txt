@@ -1,0 +1,4 @@
+I make apis in php 
+Data Store in MySQL using Xampp 
+Firstly run Xampp (apache and MySQL start) 
+after this you can login or sign up..
